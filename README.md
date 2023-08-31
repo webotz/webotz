@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @webotz
-- 👀 I’m interested in among us
-- 🌱 I’m currently learning lol
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me, you don't
+
 
 <!---
 webotz/webotz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
